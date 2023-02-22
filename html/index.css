@@ -1,0 +1,12 @@
+
+p {
+    color: #ffffff;
+    line-height: 55px;
+    font-size: 20px;
+}
+
+.highlight {
+    background-image: linear-gradient(to right, #f9989f, #fccb8f, #faf096);
+    border-radius: 10px;
+    padding: 3px 10px;
+}
